@@ -1,0 +1,25 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "discord bot by n",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "n",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "commandkit": "^0.1.10",
+    "cowsay": "^1.6.0",
+    "discord.js": "^14.14.1",
+    "djs-commander": "^0.0.50",
+    "dotenv": "^16.4.1",
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.1.1",
+    "nodemon": "^3.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  }
+}

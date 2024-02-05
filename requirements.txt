@@ -1,0 +1,6 @@
+discord.js
+djs-commander
+commandkit
+dotenv
+mongoodb
+mongoose
